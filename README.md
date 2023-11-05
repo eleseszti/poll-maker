@@ -1,6 +1,6 @@
 # Poll Maker
 
-Poll Maker is a web service created with HTML, CSS, JavaScript and PHP. 
+Poll Maker is a web service created with PHP, CSS and JavaScript. 
 
 ## Description
 

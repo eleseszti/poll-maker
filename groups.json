@@ -1,0 +1,30 @@
+{
+    "group1": {
+        "name": "group1",
+        "users": [
+            "user3",
+            "user5"
+        ]
+    },
+    "group2": {
+        "name": "group2",
+        "users": [
+            "user3",
+            "user4"
+        ]
+    },
+    "group3": {
+        "name": "group3",
+        "users": [
+            "user4",
+            "user5"
+        ]
+    },
+    "group4": {
+        "name": "group4",
+        "users": [
+            "user2",
+            "user5"
+        ]
+    }
+}
